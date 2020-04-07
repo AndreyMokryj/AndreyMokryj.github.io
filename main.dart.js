@@ -45899,7 +45899,7 @@ Vj:function(a){var t=0,s=P.T(u.y),r,q,p
 var $async$pj=P.P(function(b,c){if(b===1)return P.Q(c,s)
 while(true)switch(t){case 0:q=u.N
 t=3
-return P.a0(G.jc("http://localhost:4444/users/",C.D.fa(a.eM(),null),P.ao(["content-type","application/json"],q,q)),$async$pj)
+return P.a0(G.jc("http://34.70.160.135:4444/users/",C.D.fa(a.eM(),null),P.ao(["content-type","application/json"],q,q)),$async$pj)
 case 3:p=c
 r=C.D.dJ(0,B.fa(U.f7(p.e).c.a.h(0,"charset")).c0(0,p.x),null)
 t=1
@@ -45911,7 +45911,7 @@ Sa:function(a){var t=0,s=P.T(u.y),r,q,p
 var $async$op=P.P(function(b,c){if(b===1)return P.Q(c,s)
 while(true)switch(t){case 0:q=u.N
 t=3
-return P.a0(G.jc("http://localhost:4444/users/check/",C.D.fa(a.eM(),null),P.ao(["content-type","application/json"],q,q)),$async$op)
+return P.a0(G.jc("http://34.70.160.135:4444/users/check/",C.D.fa(a.eM(),null),P.ao(["content-type","application/json"],q,q)),$async$op)
 case 3:p=c
 r=C.D.dJ(0,B.fa(U.f7(p.e).c.a.h(0,"charset")).c0(0,p.x),null)
 t=1
@@ -45922,7 +45922,7 @@ mz:function(){var t=0,s=P.T(u.j),r,q,p
 var $async$mz=P.P(function(a,b){if(a===1)return P.Q(b,s)
 while(true)switch(t){case 0:q=u.N
 t=3
-return P.a0(G.Gx("http://localhost:4444/movies/",P.ao(["content-type","application/json"],q,q)),$async$mz)
+return P.a0(G.Gx("http://34.70.160.135:4444/movies/",P.ao(["content-type","application/json"],q,q)),$async$mz)
 case 3:p=b
 r=C.D.dJ(0,B.fa(U.f7(p.e).c.a.h(0,"charset")).c0(0,p.x),null)
 t=1
@@ -45934,7 +45934,7 @@ Fl:function(a){var t=0,s=P.T(u.wx),r,q,p
 var $async$my=P.P(function(b,c){if(b===1)return P.Q(c,s)
 while(true)switch(t){case 0:q=u.N
 t=3
-return P.a0(G.Gx("http://localhost:4444/movies/"+H.b(a),P.ao(["content-type","application/json"],q,q)),$async$my)
+return P.a0(G.Gx("http://34.70.160.135:4444/movies/"+H.b(a),P.ao(["content-type","application/json"],q,q)),$async$my)
 case 3:p=c
 r=V.a0Z(C.D.dJ(0,B.fa(U.f7(p.e).c.a.h(0,"charset")).c0(0,p.x),null))
 t=1
@@ -45946,7 +45946,7 @@ Ft:function(a){var t=0,s=P.T(u.j),r,q,p
 var $async$mF=P.P(function(b,c){if(b===1)return P.Q(c,s)
 while(true)switch(t){case 0:q=u.N
 t=3
-return P.a0(G.Gx("http://localhost:4444/sessions/mid/"+H.b(a),P.ao(["content-type","application/json"],q,q)),$async$mF)
+return P.a0(G.Gx("http://34.70.160.135:4444/sessions/mid/"+H.b(a),P.ao(["content-type","application/json"],q,q)),$async$mF)
 case 3:p=c
 r=C.D.dJ(0,B.fa(U.f7(p.e).c.a.h(0,"charset")).c0(0,p.x),null)
 t=1
@@ -45958,7 +45958,7 @@ Fo:function(a){var t=0,s=P.T(u.j),r,q,p
 var $async$mC=P.P(function(b,c){if(b===1)return P.Q(c,s)
 while(true)switch(t){case 0:q=u.N
 t=3
-return P.a0(G.Gx("http://localhost:4444/places/sid/"+H.b(a),P.ao(["content-type","application/json"],q,q)),$async$mC)
+return P.a0(G.Gx("http://34.70.160.135:4444/places/sid/"+H.b(a),P.ao(["content-type","application/json"],q,q)),$async$mC)
 case 3:p=c
 r=C.D.dJ(0,B.fa(U.f7(p.e).c.a.h(0,"charset")).c0(0,p.x),null)
 t=1
@@ -45970,7 +45970,7 @@ Fp:function(a){var t=0,s=P.T(u.j),r,q,p
 var $async$mD=P.P(function(b,c){if(b===1)return P.Q(c,s)
 while(true)switch(t){case 0:q=u.N
 t=3
-return P.a0(G.jc("http://localhost:4444/places/user/",C.D.fa(a.eM(),null),P.ao(["content-type","application/json"],q,q)),$async$mD)
+return P.a0(G.jc("http://34.70.160.135:4444/places/user/",C.D.fa(a.eM(),null),P.ao(["content-type","application/json"],q,q)),$async$mD)
 case 3:p=c
 r=C.D.dJ(0,B.fa(U.f7(p.e).c.a.h(0,"charset")).c0(0,p.x),null)
 t=1
@@ -45982,7 +45982,7 @@ FH:function(a,b){var t=0,s=P.T(u.y),r,q,p
 var $async$mJ=P.P(function(c,d){if(c===1)return P.Q(d,s)
 while(true)switch(t){case 0:q=u.N
 t=3
-return P.a0(G.jc("http://localhost:4444/places/select/"+H.b(a),C.D.fa(b.eM(),null),P.ao(["content-type","application/json"],q,q)),$async$mJ)
+return P.a0(G.jc("http://34.70.160.135:4444/places/select/"+H.b(a),C.D.fa(b.eM(),null),P.ao(["content-type","application/json"],q,q)),$async$mJ)
 case 3:p=d
 r=C.D.dJ(0,B.fa(U.f7(p.e).c.a.h(0,"charset")).c0(0,p.x),null)
 t=1
@@ -45994,7 +45994,7 @@ X0:function(a){var t=0,s=P.T(u.H),r
 var $async$pH=P.P(function(b,c){if(b===1)return P.Q(c,s)
 while(true)switch(t){case 0:r=u.N
 t=2
-return P.a0(G.Gx("http://localhost:4444/places/unselect/"+H.b(a),P.ao(["content-type","application/json"],r,r)),$async$pH)
+return P.a0(G.Gx("http://34.70.160.135:4444/places/unselect/"+H.b(a),P.ao(["content-type","application/json"],r,r)),$async$pH)
 case 2:return P.R(null,s)}})
 return P.S($async$pH,s)},
 ok:function(a){return this.RM(a)},
@@ -46002,7 +46002,7 @@ RM:function(a){var t=0,s=P.T(u.y),r,q,p
 var $async$ok=P.P(function(b,c){if(b===1)return P.Q(c,s)
 while(true)switch(t){case 0:q=u.N
 t=3
-return P.a0(G.jc("http://localhost:4444/orders/book/",C.D.fa(a.eM(),null),P.ao(["content-type","application/json"],q,q)),$async$ok)
+return P.a0(G.jc("http://34.70.160.135:4444/orders/book/",C.D.fa(a.eM(),null),P.ao(["content-type","application/json"],q,q)),$async$ok)
 case 3:p=c
 r=C.D.dJ(0,B.fa(U.f7(p.e).c.a.h(0,"charset")).c0(0,p.x),null)
 t=1
@@ -46014,7 +46014,7 @@ WZ:function(a){var t=0,s=P.T(u.H),r
 var $async$pG=P.P(function(b,c){if(b===1)return P.Q(c,s)
 while(true)switch(t){case 0:r=u.N
 t=2
-return P.a0(G.jc("http://localhost:4444/places/unbook/",C.D.fa(a,null),P.ao(["content-type","application/json"],r,r)),$async$pG)
+return P.a0(G.jc("http://34.70.160.135:4444/places/unbook/",C.D.fa(a,null),P.ao(["content-type","application/json"],r,r)),$async$pG)
 case 2:return P.R(null,s)}})
 return P.S($async$pG,s)},
 mB:function(a){return this.Fn(a)},
@@ -46022,7 +46022,7 @@ Fn:function(a){var t=0,s=P.T(u.j),r,q,p
 var $async$mB=P.P(function(b,c){if(b===1)return P.Q(c,s)
 while(true)switch(t){case 0:q=u.N
 t=3
-return P.a0(G.jc("http://localhost:4444/orders/user/",C.D.fa(a.eM(),null),P.ao(["content-type","application/json"],q,q)),$async$mB)
+return P.a0(G.jc("http://34.70.160.135:4444/orders/user/",C.D.fa(a.eM(),null),P.ao(["content-type","application/json"],q,q)),$async$mB)
 case 3:p=c
 r=C.D.dJ(0,B.fa(U.f7(p.e).c.a.h(0,"charset")).c0(0,p.x),null)
 t=1
@@ -46034,7 +46034,7 @@ W5:function(a){var t=0,s=P.T(u.y),r,q,p
 var $async$po=P.P(function(b,c){if(b===1)return P.Q(c,s)
 while(true)switch(t){case 0:q=u.N
 t=3
-return P.a0(G.jc("http://localhost:4444/orders/pay/",C.D.fa(a.eM(),null),P.ao(["content-type","application/json"],q,q)),$async$po)
+return P.a0(G.jc("http://34.70.160.135:4444/orders/pay/",C.D.fa(a.eM(),null),P.ao(["content-type","application/json"],q,q)),$async$po)
 case 3:p=c
 r=C.D.dJ(0,B.fa(U.f7(p.e).c.a.h(0,"charset")).c0(0,p.x),null)
 t=1
@@ -46046,7 +46046,7 @@ S2:function(a){var t=0,s=P.T(u.y),r,q,p
 var $async$on=P.P(function(b,c){if(b===1)return P.Q(c,s)
 while(true)switch(t){case 0:q=u.N
 t=3
-return P.a0(G.jc("http://localhost:4444/orders/cancel/",C.D.fa(a.eM(),null),P.ao(["content-type","application/json"],q,q)),$async$on)
+return P.a0(G.jc("http://34.70.160.135:4444/orders/cancel/",C.D.fa(a.eM(),null),P.ao(["content-type","application/json"],q,q)),$async$on)
 case 3:p=c
 r=C.D.dJ(0,B.fa(U.f7(p.e).c.a.h(0,"charset")).c0(0,p.x),null)
 t=1
